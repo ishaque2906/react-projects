@@ -1,0 +1,32 @@
+* {
+    margin: 100;
+    padding: 20;
+    box-sizing: border-box;
+}
+.card {
+    background-color: #b70f0f;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #de6c25;
+    color: #333;
+}
+.card img{
+     object-fit: cover;
+       
+}
+.card button{
+  border:#333
+
+}
+.card h1{
+  color: rgb(204, 245, 44);
+}
+.card p{
+  color: aliceblue;
+}
